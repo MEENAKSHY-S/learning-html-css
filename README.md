@@ -1,1 +1,1 @@
-Repo for html and css training by Mind Empowered as part of the internship. The repository is deployed on github pages and is available at https://minnu02.github.io/learning-html-css/
+Repo for html and css training by Mind Empowered as part of the internship. The repository is deployed on github pages and is available at https://MEENAKSHY-S.github.io/learning-html-css/
